@@ -12,4 +12,4 @@ Some times I really need a canvas to plot or draw something, so I came up with t
 
 ## How to use it
 
-Type code as you would type when programming a canvas application. Hit enter do execute the code.
+Type code as you would type when programming a canvas application. Hit enter to execute the code.
